@@ -151,6 +151,10 @@ p {
 	float: left;
 	padding: 20px;
 }
+/*img {
+    width: 100%;
+    height: auto;
+}*/
 
 #p_title {
 	position: absolute;
@@ -267,4 +271,17 @@ footer.footer {
 		margin-left: 25px;
 		margin-bottom: 20px;
 	}
+	#img {
+		width: 500px;
+		height:400px;
+	}
+	#p_title {
+		width: 500px;
+		padding-top: 20px;
+		padding-bottom: 20px;
+	}
+	.p_img {
+    width: 100%;
+    height: auto;
+}
 }
